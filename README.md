@@ -35,8 +35,8 @@ Currently working on Jabar Digital Service :computer:.
 ----
   [![trophy](https://github-profile-trophy.vercel.app/?username=rachadiannovansyah&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
   <div>
-    <img height="190" align="left" src="https://github-readme-stats.vercel.app/api?username=rachadiannovansyah&count_private=true&include_all_commits=true" />
-    <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rachadiannovansyah&hide=php,html,css,blade,shell,python,vue&layout=compact" />
-  </div>
-  <br>
+      <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=rachadiannovansyah&count_private=true&include_all_commits=true" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rachadiannovansyah&hide=php,html,css,blade&layout=compact" />
+    </div>
+
 </div>
